@@ -4,7 +4,7 @@ I'm a 3rd-year Computer Engineering student passionate about exploring software 
 
 - ✨ I'm excited to contribute to open-source projects.
 
-- 🐧 I enjoy tinkering with Linux.
+- 🐧 I enjoy tinkering with Linux. ![Bash](https://img.shields.io/badge/%E2%9D%A4%20Bash-f00?&style=flat-square)
 
 - 👨🏻‍💻 I've gained some experience through university with C, C++, C# and Java.
 
@@ -19,5 +19,6 @@ I'm a 3rd-year Computer Engineering student passionate about exploring software 
 - 🔍 I'm currently interested in learning:
 
     ![GTK](https://img.shields.io/badge/GTK-000?logo=gtk&logoColor=7FE719&style=flat-square)
+    ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=FFF&style=flat-square)
 
 Always learning, always building ⚡
